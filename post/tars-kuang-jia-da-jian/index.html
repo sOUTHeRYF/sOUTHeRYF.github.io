@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>关于 | Gridea</title>
+<title>Tars框架搭建 | Gridea</title>
 <meta name="description" content="温故而知新" />
 <link rel="shortcut icon" href="https://bio.invoke.com.cn//favicon.ico?v=1565455828071">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -73,11 +73,11 @@
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
-              关于
+              Tars框架搭建
             </h2>
             <div class="post-info">
               <span>
-                2019-01-25
+                2019-08-11
               </span>
               <span>
                 1 min read
@@ -87,7 +87,27 @@
             
             <div class="post-content-wrapper">
               <div class="post-content">
-                <p>这是关于的页面，可以在这里向世界介绍你！</p>
+                <p>Tars框架是腾讯开源的微服务管治架构，包含RPC协议和模型、负载均衡、注册中心、配置中心、服务生命周期管理、服务性能监控、服务链路监控等等模块。</p>
+<p>框架本身使用C++开发，支持c++、nodejs、java、php等语言，比较合适Yodo1平台部分微服务管理<br>
+<img src="https://bio.invoke.com.cn//post-images/1565455758624.png" alt=""><br>
+按照类型分为三大模块</p>
+<p>节点指的是某台 物理机/虚拟机，即某个操作系统实例</p>
+<p>模块	服务	进程	备注<br>
+基础核心服务	RegistryService	tarsregistry	微服务管治核心，服务注册/发现、名字服务、路由服务，各框架服务之间的通信桥<br>
+AdminRegistryService	tarsAdminRegistry	对接WebManager的服务<br>
+ConfigService	tarsconfig	配置服务，统一管理、下发配置<br>
+PatchService	tarspatch	服务生命周期管理，集中进行服务节点和业务节点的远程停止、远程更新、远程 启动以及历史记录管理<br>
+附加服务	LogService	tarslog	各节点的日志远程上行存储服务<br>
+NotifyService	tarsnotify	各节点的敏感错误信息上行服务， 例如DB访问超时、数据解析失败<br>
+StatService	tarsstat	各节点的预设的运行信息上行服务 ，例如流量、耗时、超时率、负载等等<br>
+PropertyService	tarsproperty	各节点的业务相关属性信息上行服务， 例如cache未命中场景、订单支付金额、玩家动作统计等等<br>
+管理Web服务	WebManager	pm2	Web管理界面，用Web的方式管理服务、触发Patch、查看Log\Notify\Stat\Property等等，基于Vue + nodejs + pm2<br>
+同时，每个节点中，包含一个tarsnode进程，它服务着该节点下所有业务服务(pm2,tomcat,nginx等等)</p>
+<p>tarsnode会收集每个业务服务等心跳包向RegistryService汇报，并承载着PatchService的请求，通过执行shell来停止、更新、启动业务服务。</p>
+<p>数据方面，包括了一下两方面</p>
+<p>1、注册中心和配置中心等核心支撑数据</p>
+<p>2、日志服务、监控等模块的流水型数据</p>
+<p>都选择了mysql作为数据存储，并且包含了按照日期的分表策略，但貌似没有自动清理逻辑</p>
 
               </div>
               <div class="toc-container">
@@ -97,6 +117,15 @@
           </article>
         </div>
 
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://bio.invoke.com.cn//post/hello-gridea">
+              <h3 class="post-title">
+                Hello Gridea
+              </h3>
+            </a>
+          </div>
         
 
         
