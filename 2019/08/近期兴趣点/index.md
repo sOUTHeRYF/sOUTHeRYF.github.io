@@ -7,7 +7,7 @@
 
 ​	<https://help.aliyun.com/document_detail/117729.html>
 
-   <https://yq.aliyun.com/articles/73187>
+   <https://blog.csdn.net/joy0921/article/details/80127930>
 
    [DRDS下的异构索引](https://blog.csdn.net/u014231523/article/details/88096413)
 
