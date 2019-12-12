@@ -5,11 +5,15 @@
 
 ​	SQL数据库分布式代理层，通过多RDS实例实现分布式横向扩容、横向分表等功能
 
-​	<https://help.aliyun.com/document_detail/117729.html>
+开源版本为[Cobabr](https://github.com/alibaba/cobar)
 
-   <https://blog.csdn.net/joy0921/article/details/80127930>
 
-   [DRDS下的异构索引](https://blog.csdn.net/u014231523/article/details/88096413)
+
+​<https://help.aliyun.com/document_detail/117729.html>
+
+<https://blog.csdn.net/joy0921/article/details/80127930>
+
+[DRDS下的异构索引](https://blog.csdn.net/u014231523/article/details/88096413)
 
 2.DBA工作总结，数据库相关内容
 
