@@ -8,7 +8,9 @@
 ​	<https://help.aliyun.com/document_detail/117729.html>
 
    <https://yq.aliyun.com/articles/73187>
-   
+
+   [DRDS下的异构索引]<https://blog.csdn.net/u014231523/article/details/88096413>
+
 2.DBA工作总结，数据库相关内容
 
 ​	<https://www.sohu.com/a/253366159_411876>

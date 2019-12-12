@@ -22,6 +22,7 @@
 &lt;p&gt;​	SQL数据库分布式代理层，通过多RDS实例实现分布式横向扩容、横向分表等功能&lt;/p&gt;
 &lt;p&gt;​	&lt;a href=&#34;https://help.aliyun.com/document_detail/117729.html&#34;&gt;https://help.aliyun.com/document_detail/117729.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://yq.aliyun.com/articles/73187&#34;&gt;https://yq.aliyun.com/articles/73187&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[DRDS下的异构索引]&lt;a href=&#34;https://blog.csdn.net/u014231523/article/details/88096413&#34;&gt;https://blog.csdn.net/u014231523/article/details/88096413&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;2.DBA工作总结，数据库相关内容&lt;/p&gt;
 &lt;p&gt;​	&lt;a href=&#34;https://www.sohu.com/a/253366159_411876&#34;&gt;https://www.sohu.com/a/253366159_411876&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;3.arthas&lt;/p&gt;
