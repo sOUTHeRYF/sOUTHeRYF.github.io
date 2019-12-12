@@ -3,7 +3,7 @@
         <url>
             <loc>https://blog.invoke.com.cn/categories/</loc>
             
-                <lastmod>2019-12-13T01:30:42+08:00</lastmod>
+                <lastmod>2019-12-13T02:39:42+08:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
@@ -17,7 +17,7 @@
         <url>
             <loc>https://blog.invoke.com.cn/</loc>
             
-                <lastmod>2019-12-13T01:30:42+08:00</lastmod>
+                <lastmod>2019-12-13T02:39:42+08:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
@@ -31,7 +31,7 @@
         <url>
             <loc>https://blog.invoke.com.cn/posts/</loc>
             
-                <lastmod>2019-12-13T01:30:42+08:00</lastmod>
+                <lastmod>2019-12-13T02:39:42+08:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
@@ -45,7 +45,7 @@
         <url>
             <loc>https://blog.invoke.com.cn/tags/</loc>
             
-                <lastmod>2019-12-13T01:30:42+08:00</lastmod>
+                <lastmod>2019-12-13T02:39:42+08:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
@@ -59,7 +59,35 @@
         <url>
             <loc>https://blog.invoke.com.cn/tags/tech/</loc>
             
-                <lastmod>2019-12-13T01:30:42+08:00</lastmod>
+                <lastmod>2019-12-13T02:39:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://blog.invoke.com.cn/2019/12/%E6%9C%AF%E8%AF%ADvideo_game/</loc>
+            
+                <lastmod>2019-12-13T02:39:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://blog.invoke.com.cn/categories/%E7%AC%94%E8%AE%B0/</loc>
+            
+                <lastmod>2019-12-13T02:39:42+08:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
@@ -100,20 +128,6 @@
     
         <url>
             <loc>https://blog.invoke.com.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-            
-                <lastmod>2019-12-13T01:30:42+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>https://blog.invoke.com.cn/categories/%E7%AC%94%E8%AE%B0/</loc>
             
                 <lastmod>2019-12-13T01:30:42+08:00</lastmod>
             
