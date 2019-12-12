@@ -18,32 +18,7 @@
       <pubDate>Sun, 25 Aug 2019 16:22:42 +0800</pubDate>
       
       <guid>https://blog.invoke.com.cn/2019/08/%E8%BF%91%E6%9C%9F%E5%85%B4%E8%B6%A3%E7%82%B9/</guid>
-      <description>&lt;p&gt;1.Aliyun DRDS 😄&lt;/p&gt;
-&lt;p&gt;​	SQL数据库分布式代理层，通过多RDS实例实现分布式横向扩容、横向分表等功能&lt;/p&gt;
-&lt;p&gt;开源版本为&lt;a href=&#34;https://github.com/alibaba/cobar&#34;&gt;Cobabr&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;​&lt;a href=&#34;https://help.aliyun.com/document_detail/117729.html&#34;&gt;https://help.aliyun.com/document_detail/117729.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/joy0921/article/details/80127930&#34;&gt;https://blog.csdn.net/joy0921/article/details/80127930&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/u014231523/article/details/88096413&#34;&gt;DRDS下的异构索引&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;2.DBA工作总结，数据库相关内容&lt;/p&gt;
-&lt;p&gt;​	&lt;a href=&#34;https://www.sohu.com/a/253366159_411876&#34;&gt;https://www.sohu.com/a/253366159_411876&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;3.arthas&lt;/p&gt;
-&lt;p&gt;​	阿里开源工具，java进程monitor工具，可视化可交互&lt;/p&gt;
-&lt;p&gt;4.Raft协议&lt;/p&gt;
-&lt;p&gt;​	分布式一致性协议，节点角色竞选，通信流程&lt;/p&gt;
-&lt;p&gt;​	&lt;a href=&#34;https://www.jianshu.com/p/aa77c8f4cb5c&#34;&gt;https://www.jianshu.com/p/aa77c8f4cb5c&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;​	&lt;a href=&#34;https://www.jianshu.com/p/3c6a4fd6a7cc&#34;&gt;https://www.jianshu.com/p/3c6a4fd6a7cc&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;5.影子流量&lt;/p&gt;
-&lt;p&gt;​	将线上真实流量导入其他环境，用于压测、故障重播、测试等&lt;/p&gt;
-&lt;p&gt;​	&lt;a href=&#34;https://www.jianshu.com/p/7230271e18a6&#34;&gt;https://www.jianshu.com/p/7230271e18a6&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;6.Service Mesh&lt;/p&gt;
-&lt;p&gt;​	一种微服务管理思路，Tars就是参考这种思路&lt;/p&gt;
-&lt;p&gt;​	&lt;a href=&#34;https://www.jianshu.com/p/2072ef10e21a&#34;&gt;https://www.jianshu.com/p/2072ef10e21a&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;​	&lt;a href=&#34;https://www.jianshu.com/p/4ee0bd711de1&#34;&gt;https://www.jianshu.com/p/4ee0bd711de1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;7.业务与代码设计的关系&lt;/p&gt;
-&lt;p&gt;​	&lt;a href=&#34;https://www.jianshu.com/p/a77c5719045c&#34;&gt;https://www.jianshu.com/p/a77c5719045c&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;8.SOFAStack&lt;/p&gt;
-&lt;p&gt;​	阿里开源的金融级别微服务框架,仅对java支持较好&lt;/p&gt;
-&lt;p&gt;​	&lt;a href=&#34;https://www.sofastack.tech/&#34;&gt;https://www.sofastack.tech/&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;挨个学习&lt;/p&gt;</description>
     </item>
     
   </channel>
