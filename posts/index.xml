@@ -13,15 +13,13 @@
     
     
     <item>
-      <title>术语:video_game:</title>
-      <link>https://blog.invoke.com.cn/2019/12/%E6%9C%AF%E8%AF%ADvideo_game/</link>
+      <title>术语</title>
+      <link>https://blog.invoke.com.cn/2019/12/%E6%9C%AF%E8%AF%AD/</link>
       <pubDate>Fri, 13 Dec 2019 02:38:42 +0800</pubDate>
       
-      <guid>https://blog.invoke.com.cn/2019/12/%E6%9C%AF%E8%AF%ADvideo_game/</guid>
-      <description>1.数据库相关   OLAP/OLTP
-  OLTP面向日常业务支持，涉及数据量较小，要求实时性较高，访问延迟敏感
-  OLAP面向分析需求支持，涉及数据量非常大，访问延迟不敏感
-可以理解为数据使用的两个不同的维度      2.微服务管治相关 3.分布式相关 4.大数据相关 5.业务系统设计相关 </description>
+      <guid>https://blog.invoke.com.cn/2019/12/%E6%9C%AF%E8%AF%AD/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;这里记录一些术语的理解&lt;/h1&gt;
+&lt;p&gt;😰&lt;/p&gt;</description>
     </item>
     
     <item>
