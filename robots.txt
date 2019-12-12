@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: http://blog.invoke.com.cn/sitemap.xml
+Sitemap: https://blog.invoke.com.cn/sitemap.xml
